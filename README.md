@@ -248,7 +248,7 @@ MIT License - see LICENSE file for details
 [![Opik](https://img.shields.io/badge/Opik-Integrated-green.svg)](https://www.comet.com/docs/opik/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 🎯 The Problem
+##  The Problem
 
 People set vague career goals like "get better at my job" but:
 - ❌ Don't know what skills they're missing
@@ -258,7 +258,7 @@ People set vague career goals like "get better at my job" but:
 
 Traditional solutions fail because they're not personalized and don't adapt.
 
-## 💡 Our Solution - CareerPilot
+##  Our Solution - CareerPilot
 
 An agentic AI system that **takes initiative** - it monitors, anticipates, decides, and acts:
 
@@ -270,7 +270,7 @@ An agentic AI system that **takes initiative** - it monitors, anticipates, decid
 
 **Key Differentiator**: Full Opik integration for complete observability, evaluation, and trust.
 
-## 🏗️ Architecture
+##  Architecture
 
 Multi-agent system with specialized AI agents:
 
@@ -308,7 +308,7 @@ Every agent decision is:
 - ✅ **Measured**: Custom metrics for each decision
 - ✅ **Optimized**: A/B testing and continuous improvement
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -363,7 +363,7 @@ python test_setup.py
 
 **Total time**: ~60 seconds for complete analysis
 
-## 🎨 Features
+##  Features
 
 ### Confidence Scores
 Every skill gap includes:
@@ -386,7 +386,7 @@ LLM-as-a-judge rates each learning resource on:
 - Comprehensiveness
 - Practical applicability
 
-## 📈 Results
+##  Results
 
 Demo analysis produces:
 - ✅ 5 jobs analyzed
@@ -422,7 +422,7 @@ score = hallucination_metric.score(
 - Resources curated, average quality score
 - Sessions scheduled, total learning hours
 
-## 🎯 Why This Wins
+##  Why This Wins
 
 ### Judging Criteria Alignment
 
@@ -448,7 +448,7 @@ score = hallucination_metric.score(
 - Comprehensive documentation
 - Demo script and presentation
 
-## 📚 Documentation
+##  Documentation
 
 - [QUICKSTART.md](QUICKSTART.md) - Detailed setup and usage guide
 - [DEMO_SCRIPT.md](DEMO_SCRIPT.md) - Complete hackathon demo script
@@ -462,7 +462,7 @@ score = hallucination_metric.score(
 - **UI**: Streamlit, Plotly
 - **APIs**: OpenAI, job boards (simulated in demo)
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Near-term
 - Real job board APIs (LinkedIn, Indeed)
@@ -476,7 +476,7 @@ score = hallucination_metric.score(
 - Skill verification through projects/quizzes
 - Integration with learning platforms (Coursera, Udemy)
 
-## 🤝 Contributing
+##  Contributing
 
 This is a hackathon project, but contributions are welcome! Areas for improvement:
 - Real job board integrations
@@ -495,10 +495,6 @@ MIT License - see LICENSE file for details
 - Inspired by the need for better career development tools
 
 ## 📧 Contact
-
-Questions? Feedback? Reach out:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/career-growth-agent/issues)
-- Email: your.email@example.com
 
 ---
 Built for the Comet Resolution V2 Hackathon
